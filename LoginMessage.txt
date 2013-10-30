@@ -1,0 +1,2 @@
+&fWelcome to &eThe &6Socialist &eRepublic of New Canada&f, &a%nm&f!&0&0&2&e&f
+&fPlayers Online (%size/%max): &a%ol

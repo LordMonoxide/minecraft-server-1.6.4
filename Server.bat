@@ -1,0 +1,1 @@
+java -Xincgc -Xmx4G -Xms4G -jar minecraftforge-universal-1.6.4-9.11.1.921.jar nogui
