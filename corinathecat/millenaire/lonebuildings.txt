@@ -1,0 +1,5 @@
+Pharos;1016/70/-187;lighthouse;byzantines;
+Lost Mayan Corn Farm;1580/62/-423;lonemayancornfarm;mayan;
+Bûcheron solitaire;2176/66/-557;lonelumbermantaiga;norman;
+Tour des bandits;2975/57/-589;bandittower;norman;
+Tour des bandits;966/59/-808;bandittower;norman;

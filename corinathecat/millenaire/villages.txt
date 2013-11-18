@@ -1,0 +1,8 @@
+Ghamahapur Mahal;1275/75/-358;indian_palace;hindi;
+Ghamahapur Gaanv;1148/63/-323;indian_agricole_hamlet;hindi;
+Ghamahapur Qila;1126/68/-404;indian_fort_hamlet;hindi;
+Kiche;1883/70/-486;agriculture;mayan;
+Piparwar Mahal;2542/69/-590;indian_palace;hindi;
+Piparwar Gaanv;2667/71/-627;indian_agricole_hamlet;hindi;
+Piparwar Qila;2587/75/-454;indian_fort_hamlet;hindi;
+Bihardar;3201/67/-914;indian_fort;hindi;
